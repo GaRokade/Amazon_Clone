@@ -35,4 +35,9 @@
   to {
     transform: rotate(360deg);
   }
+}@media (max-width: 2500px) {
+  /* … */
+}
+@media (max-height: 730px) {
+  /* … */
 }
